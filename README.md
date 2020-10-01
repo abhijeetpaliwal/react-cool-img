@@ -1,4 +1,5 @@
-# <em><b>REACT COOL IMG</b></em>
+# <em><b>REACT COOL IMG</b></em> 
+##digitalmarketing ##seo ##smo ##rankinserachengine
 
 This is a lightweight React `<Img />` component, which helps you handle image UX (user experience) and performance optimization as a professional guy 🤓
 
